@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ryanmv2004
+- 👀 I’m interested in Programming in C# and Java
+- 🌱 I’m currently learning SQL, Database management, C++ and Cloud Development with Azure
+- 💞️ I’m looking to collaborate on LinkedIn
+- 📫 How to reach me https://www.linkedin.com/in/ryan-ventura-455724289/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a massive football fan and support Manchester United.
